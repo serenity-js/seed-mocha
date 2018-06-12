@@ -1,5 +1,7 @@
 # Serenity/JS Mocha seed
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/serenity-js/seed-mocha.svg)](https://greenkeeper.io/)
+
 You can use this repository as a starting point for your [Serenity/JS](http://serenity-js.org)
 and [Mocha](https://mochajs.org/) projects.
 [Clone](https://help.github.com/articles/cloning-a-repository/) and enjoy!
