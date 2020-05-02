@@ -1,3 +1,13 @@
+# This project has been deprecated
+
+This project used to help you get started with Serenity/JS 1.x, which is no longer maintained.
+
+If you'd like to migrate your existing Serenity/JS 1.x test suite to version 2.x of the framework, please follow the [official upgrade guide](https://serenity-js.org/handbook/integration/upgrading-to-serenity-js-2.html).
+
+To start a fresh Serenity/JS 2.x project, please use the [`serenity-js-jasmine-protractor-template`](https://github.com/serenity-js/serenity-js-jasmine-protractor-template).
+
+---
+
 # Serenity/JS Mocha seed
 
 You can use this repository as a starting point for your [Serenity/JS](http://serenity-js.org)
